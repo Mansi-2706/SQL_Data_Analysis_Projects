@@ -35,11 +35,3 @@ M
 
 SELECT DISTINCT COUNT(*) FROM [dbo].[credit_card_transactions$]
 --16383
-
-
-
-
-
-
-
-
