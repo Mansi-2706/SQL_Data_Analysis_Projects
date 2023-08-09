@@ -1,6 +1,8 @@
 # SQL_Data_Analysis_Projects
 
-This is a SQL portfolio project done on dataset downloaded from Kaggle - Credit card transactions.(Provided in the repository)
+This Repository will hold all of the code and queries from the Portfolio Projects I create.
 
-I have analyzed it based on some questions using various concepts from medium to advance level SQL. 
-The .sql file is provided for all the analysis done through SQL Coding.
+1.) This is a SQL portfolio project done on dataset downloaded from Kaggle - Credit card transactions.(Provided in the repository)
+    https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+    I have analyzed it based on some questions on the spending habits of credit cards in India using various concepts from medium to advance level SQL. 
+    The .sql file is provided for all the analysis done through SQL Coding.
